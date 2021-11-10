@@ -1,0 +1,13 @@
+a0b125d4d9a7b9e621da04041166405b *DESCRIPTION
+36c2fc20213af26f03ede5d01141b0be *NAMESPACE
+0cc8042a941b76fbbca748f4902ae46d *R/hetsurr.functions.R
+75434d366a646b5db454311cf37ccf9f *data/example.data.RData
+e3b0b9439448cba4e4bb699b1ed2aa86 *man/delta.s.estimate.w.Rd
+80f9c0b3c95ef0f0d8fe33442f1be9ea *man/example.data.Rd
+df716ceef6e59b822f942ba87ce0cfcc *man/hetsurr.fun.Rd
+821c681cd195ed8546b09d968ca50956 *man/hetsurr.plot.Rd
+74e05ed02983dcb3f44d51c4bab7398b *man/kf.Rd
+c7dc53747f2b6e3479d56ec62de6ca2d *man/mu0wy.Rd
+1a4395a570ec84ec9e1dad45d8ffe715 *man/mu10.Rd
+37c9c3f2300b41a99d85e831b069caae *man/mu1swy.Rd
+f1578c88306c601521b194377b044512 *man/mu1wy.Rd
